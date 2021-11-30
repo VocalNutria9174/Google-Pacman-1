@@ -7,7 +7,7 @@ Google's 30th anniversary Pac-Man doodle, extracted from the [Doodles Archive](h
 </p>
 
 <p align="center">
-  <a href="https://manuel.life/download-google-pacman-play-offline/"><strong>DEMO</strong></a>
+  <a href="https://vocalnutria9174.github.io/Google-Pacman-1/"><strong>DEMO</strong></a>
 </p>
 
 ## Instructions
